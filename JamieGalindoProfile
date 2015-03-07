@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jamie Lee Galindo</title>
+	</head>
+	<body>
+	<img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-9/379646_882580307104_527358843_n.jpg?oh=9ba5bdc1b0f6bef091f5a4f0ca3a495a&oe=55756965&__gda__=1434780747_a39a5f7874ef28cdb2d33203e5039eff" />
+	<h1 style="font-family: Verdana, Geneva, sans-serif; color: purple; font-size: 20px">A little bit about me</h1>
+	    <p>
+	        Hi! Thank you for visiting my page. My name is Jamie Lee Galindo, I'm a 29 year old female from Toronto, Ontario. 
+	    </p>
+	    <ul>
+	        <li><strong>My career so far</strong>
+	            
+	            <ul>
+	                <li>Campaign Manager, Marketing Solutions at LinkedIn</li>
+	                <li>Campaign Planner, Marketing Solutions at LinkedIn</li>
+	                <li>Advertising Sales Coordinator at The Code Project</li>
+	                <li>Sales Coordinator at Futuremed Healthcare</li>
+	                <li>Junior Copywriter at Tamm Communications</li>
+	            </ul>
+	        </li>
+	        
+	        <li><strong>Where I see my future</strong>
+	            
+	            <ul>
+	                <li>Continue to work on and perfect my web dev skills</li>
+	                <li>Build a profile of websites I've developed</li>
+	                <li>Volunteer at least twice a month</li>
+	                <li>Continue my career transformation at LinkedIn</li>
+	                <li>Travel the world</li>
+	            </ul>
+	        
+	        </li>
+	        
+	        <li><strong>What I'm into when I'm not working</strong>
+	        
+	            <ul>
+	                <li>Watching movies - any genre except kung fu or anime</li>
+	                <li>Reading - mostly fiction because I love getting lost in another world that may or may not be possible</li>
+	                <li>Eating and/or drinking while playing board games (board games not required)with friends</li>
+	                <li>Going to bars with live music</li>
+	                <li>Traveling for work or pleasure</li>
+	            </ul>
+	        
+	        </li>
+	        
+	        <li><strong>Where I've lived</strong>
+	       
+	            <ol>
+	                <li>Born: Toronto</li>
+	                <li>Gooderham</li>
+	                <li>Haliburton</li>
+	                <li>Wilberforce</li>
+	                <li>Harcourt</li>
+	                <li>Eganville</li>
+	                <li>Renfrew</li>
+	                <li>Brockville</li>
+	                <li>Scarborough</li>
+	                <li>North York</li>
+	                <li>Thornhill</li>
+	                <li>Barrie</li>
+	                <li>Toronto (I've also moved several times within Toronto, but I'll save that for another list and another time)</li>
+	            </ol>
+	        
+	        </li>
+	        
+	        <li><strong>Words to live by</strong>
+	        
+	            <ul>
+	                <li>"<em>Don't get so busy making a living that you forget to make a life.</em>" - anonymous</li>
+	                <li>"<em>You must do the thing which you think you cannot do.</em>" - Eleanor Roosevelt</li>
+	                <li>"<em>Well done is better than well said.</em>" - Benjamin Franklin</li>
+	                <li>"<em>Don't ever mistake my silence for ignorance, my calmness for acceptance, or my kindness for weakness.</em>" - Carson Kolhoff</li>
+	            </ul>
+	        
+	        </li>
+
+	        <li><strong>Get in Touch</strong></li>
+	        	<ul>
+	        		<li><a href="https://www.linkedin.com/profile/view?id=122424155&trk=nav_responsive_tab_profile">LinkedIn</a></li>
+					<li>Instagram</li>
+					<li><a href="https://www.facebook.com/jamie.galindo">Facebook</a></li>
+					<li><a href="https://github.com/itsmejamielee">Github</a></li>
+	        	</ul>
+        	</li>
+
+
+	    </ul>
+
+
+	</body>
+</html>
